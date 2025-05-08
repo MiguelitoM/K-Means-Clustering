@@ -1,6 +1,6 @@
 # 📊 K-means Clustering in RISC-V
 
-## 🌟 Project Overview
+## 🔎 Project Overview
 
 This project was developed for the *Computer Architecture* course and implements the k-means clustering algorithm in **RISC-V assembly**. 
 
