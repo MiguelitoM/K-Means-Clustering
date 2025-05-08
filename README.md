@@ -1,7 +1,6 @@
 # 📊 K-means Clustering in RISC-V
 
 ## 🔍 Project Overview
-
 This project was developed for the *Introduction to Computer Architecture* course and implements the k-means clustering algorithm in **RISC-V assembly**. 
 
 The goal is to take a set of 2D points and group them into **k clusters** based on proximity. The algorithm runs iteratively, updating cluster centroids and point assignments until a stopping condition is met.
